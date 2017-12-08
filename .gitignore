@@ -1,0 +1,7 @@
+*.pyc
+logs/
+val/
+models/checkpoints/
+*.png
+*.jpeg
+train_data/
